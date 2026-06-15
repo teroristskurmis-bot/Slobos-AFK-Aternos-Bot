@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anonmiealkoholiki.aternos.me",
-    "port": 64953,
+    "ip": "anonimiealkoholiki.aternos.me",
+    "port": 37074,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 100,
-    "y": 63,
-    "z": 70
+    "x": 0,
+    "y": 100,
+    "z": 0,
   },
   "utils": {
     "auto-auth": {
