@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anonimiealkoholiki.aternos.me",
+    "ip": "anonimiealkoholiki.aternos.me:37074",
     "port": 37074,
     "version": "",
     "try-creative": false
